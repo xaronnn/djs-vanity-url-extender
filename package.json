@@ -1,0 +1,15 @@
+{
+    "name": "djs-vanity-url-extender",
+    "version": "1.0.0",
+    "author": "Uğur PEKESEN",
+    "license": "Private License",
+    "private": true,
+    "main": "example.js",
+    "type": "module",
+    "scripts": {
+      "start": "node example.js"
+    },
+    "dependencies": {
+      "discord.js": "^12.5.1"
+    }
+}
